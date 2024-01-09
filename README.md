@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasharth-0910
-- 👀 I’m interested in Web-Development
+- 👀 I’m interested in Web-Development and Data-Science
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Front-End projects
 - 📫 You can contact me by dropping me an Email at 
