@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web-Development and Data-Science
 - 🌱 I’m currently learning JavaScript and C++
 - 💞️ I’m looking to collaborate on Front-End projects
-- 📫 You can contact me by dropping me an Email at 
+- 📫 You can contact me by dropping me an Email at yasharth09singh@gmail.com
+
 
 <!---
 yasharth-0910/yasharth-0910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
