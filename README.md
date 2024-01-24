@@ -9,13 +9,15 @@
 
 - 💬 Ask me about **Html,css,Javascript,C/C++**
 
-- 📫 Contact me through **yasharthsingh0910@gmail.com**
+- 📫 Contact me through email **yasharthsingh0910@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/why_yasharth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="why_yasharth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yasharth-singh-b2493b284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasharth-singh-b2493b284/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22921859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22921859" height="30" width="40" /></a>
-<a href="/https://clubs.internshala.com/member/yasharthsingh1/?source=header_desktop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://clubs.internshala.com/member/yasharthsingh1/?source=header_desktop" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yasharth_0910" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yasharth_0910" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@yasharthsingh091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yasharthsingh091" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
