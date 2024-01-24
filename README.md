@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://clubs.internshala.com/member/yasharthsingh1/?source=header_desktop](https://clubs.internshala.com/member/yasharthsingh1/?source=header_desktop)
 
-- 💬 Ask me about **Html,css,Javascript**
+- 💬 Ask me about **Html,css,Javascript,C/C++**
 
 - 📫 How to reach me **yasharthsingh0910@gmail.com**
 
