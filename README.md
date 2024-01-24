@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Html,css,Javascript,C/C++**
 
-- 📫 Contact me through email **yasharthsingh0910@gmail.com**
+- 📫 Contact me through **yasharthsingh0910@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
