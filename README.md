@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasharth Singh</h1>
-<h3 align="center">I am a 1st year CSE student from India, currently learning Full-Stack Web development</h3>
+<h3 align="center">I am a 2nd year CSE student from India, currently learning Full-Stack Web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasharth-0910&label=Profile%20views&color=0e75b6&style=flat" alt="yasharth-0910" /> </p>
 
