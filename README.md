@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasharth Singh</h1>
-<h3 align="center">I am a 2nd year CSE student from India, currently learning Full-Stack Web development</h3>
+<h3 align="center">I am a 2nd year CSE student from India, currently learning Machine Learning and is proficient in Full Stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasharth-0910&label=Profile%20views&color=0e75b6&style=flat" alt="yasharth-0910" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/yash_mera_naam" target="blank"><img src="https://img.shields.io/twitter/follow/yash_mera_naam?logo=twitter&style=for-the-badge" alt="yash_mera_naam" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **ML**
 
 - 📝 I regularly write articles on [https://clubs.internshala.com/member/yasharthsingh1/?source=header_desktop](https://clubs.internshala.com/member/yasharthsingh1/?source=header_desktop)
 
-- 💬 Ask me about **Html,Css,Java-Script,JQuery,Node.js,Express.js**
+- 💬 Ask me about **Full Stack Dev + DevOps + AI/ML**
 
-- 📫 Contact me through email **yasharthsingh0910@gmail.com**
+- 📫 Contact me through email **contact@yasharth.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
