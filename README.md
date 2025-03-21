@@ -12,7 +12,7 @@
 + 2nd Year CSE Student | India | Grad 2027
 ! AI/ML Developer | Full Stack Developer | IoT & Robotics | DSA
 - Building: 🤖 AI Stock Sentiment Analyzer
-# Open Source Core Team | Robotics Club Core Team
++ Open Source Core Team | Robotics Club Core Team
 - Portfolio: https://yasharth.xyz
 ```
 
@@ -60,6 +60,8 @@ Because who needs sleep anyway? 😴💻
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 </p>
+
+
 
 ---
 
