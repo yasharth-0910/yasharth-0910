@@ -10,9 +10,9 @@
 
 ```diff
 + 2nd Year CSE Student | India | Grad 2027
-! AI/ML Developer | Full Stack Architect | IoT Creator
+! AI/ML Developer | Full Stack Developer | IoT & Robotics | DSA
 - Building: 🤖 AI Stock Sentiment Analyzer
-# Open Source Lead | Robotics Club Head
+# Open Source Core Team | Robotics Club Core Team
 - Portfolio: https://yasharth.xyz
 ```
 
@@ -45,6 +45,12 @@
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 </p>
+
+### 🔧 Technical Skills
+- **Programming Languages:** JavaScript, TypeScript, PHP, C/C++
+- **Tech Stack:** React, Next.js, Node.js, Prisma, PostgreSQL, MongoDB, Tailwind CSS, WebSockets, WebRTC
+- **Machine Learning:** Supervised/Unsupervised Learning, Advanced Learning Algorithms, Reinforcement Learning
+- **DevOps & Tools:** AWS (Basic), Nginx, Reverse Proxies, Cloudflare, Rate Limiting, DDOS Protection
 
 ## 📊 GitHub Analytics
 <div align="center">
