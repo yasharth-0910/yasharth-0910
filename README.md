@@ -19,15 +19,18 @@
 ## 🌟 Featured Projects
 <div align="center">
 
-| Project         | Description                      | Visit |
-|----------------|----------------------------------|-------|
-| 🖼️ Image to Text | Advanced OCR conversion tool    | [img2text.yasharth.xyz](https://img2text.yasharth.xyz) |
-| 🌐 CICR Platform | Central innovation hub         | [cicr.in](https://cicr.in) |
-| 👨💻 Git Hosting  | Self-hosted git solution      | [git.cicr.in](https://git.cicr.in) |
-| ⚡ Techtonic    | Tech experiment playground     | [techtonic.cicr.in](https://techtonic.cicr.in) |
-| 🧠 LazyLab     | AI-powered research hub        | [lazylab.cicr.in](https://lazylab.cicr.in) |
+| Project         | Description                                | Visit |
+|----------------|------------------------------------------|-------|
+| 🖼️ Image to Text | Advanced OCR conversion tool            | [img2text.yasharth.xyz](https://img2text.yasharth.xyz) |
+| 🌐 CICR Platform | Official Website of Robotics Club       | [cicr.in](https://cicr.in) |
+| 👨💻 Git Hosting  | Git playground & cheat sheet          | [git.cicr.in](https://git.cicr.in) |
+| ⚡ Techtonic    | Official 3-Days Robotics Workshop       | [techtonic.cicr.in](https://techtonic.cicr.in) |
+| 🧠 LazyLab     | Online Graph Maker Tool for Experiments | [lazylab.cicr.in](https://lazylab.cicr.in) |
+| 📦 Inventory   | Robotics Club Inventory Management       | [inventory.cicr.in](https://inventory.cicr.in) |
 
 </div>
+
+> More projects under development... because who needs sleep anyway? 🚀💻
 
 ## 🛠️ Tech Stack
 
@@ -73,12 +76,5 @@
   <a href="https://twitter.com/yash_mera_naam"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
 </p>
 
-## 🎧 Spotify Vibes
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ctirbhwh57ybguhf7rutkna7em&cover_image=true&theme=novatorem" alt="Now Playing">
-</p>
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yasharth-0910/yasharth-0910/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
-</p>
+## 🎵 Spotify Vibes
+> Spotify widget is taking a coffee break ☕ (a.k.a. "Invalid upstream response (402)") 🤷‍♂️
