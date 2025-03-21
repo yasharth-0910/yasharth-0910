@@ -16,28 +16,27 @@
 - Portfolio: https://yasharth.xyz
 ```
 
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
 
-| Project | Description | Preview | Visit |
-|---------|------------|---------|-------|
-| 🎨 Image to Text | Advanced OCR conversion tool | <img src="https://img2text.yasharth.xyz/preview.gif" width="100"> | [img2text.yasharth.xyz](https://img2text.yasharth.xyz) |
-| 🌐 CICR Platform | Official Website of Robotics Club | <img src="https://cicr.in/preview.gif" width="100"> | [cicr.in](https://cicr.in) |
-| 👨‍💻 Git Hosting | Git playground & cheat sheet | <img src="https://git.cicr.in/preview.gif" width="100"> | [git.cicr.in](https://git.cicr.in) |
-| ⚡ Techtonic | Official 3-Days Robotics Workshop | <img src="https://techtonic.cicr.in/preview.gif" width="100"> | [techtonic.cicr.in](https://techtonic.cicr.in) |
-| 🧠 LazyLab | Online Graph Maker Tool for Experiments | <img src="https://lazylab.cicr.in/preview.gif" width="100"> | [lazylab.cicr.in](https://lazylab.cicr.in) |
-| 📦 Inventory | Robotics Club Inventory Management | <img src="https://inventory.cicr.in/preview.gif" width="100"> | [inventory.cicr.in](https://inventory.cicr.in) |
+| Project | Description | Visit |
+|---------|------------|-------|
+| 🎨 Image to Text | Advanced OCR conversion tool | [img2text.yasharth.xyz](https://img2text.yasharth.xyz) |
+| 🌐 CICR Platform | Official Website of Robotics Club | [cicr.in](https://cicr.in) |
+| 👨‍💻 Git Hosting | Git playground & cheat sheet | [git.cicr.in](https://git.cicr.in) |
+| ⚡ Techtonic | Official 3-Days Robotics Workshop | [techtonic.cicr.in](https://techtonic.cicr.in) |
+| 🧠 LazyLab | Online Graph Maker Tool for Experiments | [lazylab.cicr.in](https://lazylab.cicr.in) |
+| 📦 Inventory | Robotics Club Inventory Management | [inventory.cicr.in](https://inventory.cicr.in) |
 </div>
 
 ---
 
-## 🔗 Important Links
-- 🌐 **Portfolio**: [yasharth.xyz](https://yasharth.xyz)
-- 🚀 **GitHub**: [github.com/yasharth-0910](https://github.com/yasharth-0910)
-- 📜 **Resume**: [View Resume](https://yasharth.xyz/resume.pdf)
+```ascii
+      .    .     .    .     .    .
+  .  ╰——╲  .  ╰——╲  .  ╰——╲  .  ╰——╲  .
+Because who needs sleep anyway? 😴💻
+```
 
 ---
 
@@ -48,13 +47,29 @@
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img alt="C/C++" src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ### 🧠 AI/ML Stack
 <p align="left">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 </p>
+
+
+
+---
+
+## 📊 GitHub Analytics
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yasharth-0910&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasharth-0910&theme=radical&hide_border=true" />
+</div>
 
 ---
 
@@ -63,7 +78,6 @@
   <a href="https://yasharth.xyz"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/> </a>
   <a href="https://linkedin.com/in/yasharth-singh-b2493b284/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
   <a href="https://twitter.com/yash_mera_naam"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-  <a href="mailto:contact@yasharth.xyz"> <img src="https://img.shields.io/badge/Email-FF6CAB?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 ---
@@ -75,22 +89,3 @@ Spotify widget is taking a coffee break ☕ (a.k.a. "Invalid upstream response (
 
 ## 🏁 Final Words
 Still reading? Go touch some grass 🌿
-
----
-
-## 🎭 Easter Eggs
-```bash
-> Are you a developer or an AI?
-```
-_(Secret interactive widget coming soon!)_
-
----
-
-## 🏁 Dynamic Footer
-```ascii
-      .    .     .    .     .    .
-  .  ╰——╲  .  ╰——╲  .  ╰——╲  .  ╰——╲  .
-Because who needs sleep anyway? 😴💻
-```
-
----
