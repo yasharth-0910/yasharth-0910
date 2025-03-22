@@ -20,8 +20,9 @@
 
 <details>
   <summary><strong>💡 Fun Fact?</strong></summary>
-  <p> "Code is like humor. When you have to explain it, it’s bad." – Cory House </p>
+  <p> "There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors." – Phil Karlton (with a twist) </p>
 </details>
+
 
 ## 🌟 Featured Projects
 
