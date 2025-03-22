@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yasharth.xyz" target="_blank">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3200&pause=1000&color=7A3FF7&center=true&vCenter=true&width=800&lines=Hey+there!+%F0%9F%91%8B;I'm+Yasharth+%F0%9F%97%9E%EF%B8%8F;AI+Enthusiast+%26+Full+Stack+Developer;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Animated Welcome" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3200&pause=1000&color=7A3FF7&center=true&vCenter=true&width=800&lines=Hey+there!+%F0%9F%91%8B;I'm+Yasharth+%F0%9F%97%9E%EF%B8%8F;AI+Enthusiast+%26+Full+Stack+Developer;Building+the+Mess+with+Code+%F0%9F%9A%80" alt="Animated Welcome" />
 
   </a>
 </p>
