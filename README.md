@@ -34,7 +34,7 @@
       <th>Visit</th>
     </tr>
     <tr>
-      <td align="center">🎨 Image to Text</td>
+      <td align="center">🎨 Textract AI</td>
       <td align="center">Advanced OCR conversion tool</td>
       <td align="center"><a href="https://img2text.yasharth.xyz" target="_blank">img2text.yasharth.xyz</a></td>
     </tr>
