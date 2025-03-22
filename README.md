@@ -7,7 +7,7 @@
 ## 🚀 A Little About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="50" alt="coding gif" />
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100" height="100 alt="coding gif" />
 </div>
 
 **2nd Year CSE Student | India | Grad 2027**  
