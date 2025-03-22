@@ -78,6 +78,25 @@
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
+
+🚧 **Under Development**
+
+<div align="center">
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Release Date</th>
+  </tr>
+  <tr>
+    <td align="center">StockSage 📈🧠</td>
+    <td align="center">AI-powered bot predicting Indian stock movements from news & sentiment. 🚀📈</td>
+    <td align="center">Gotta keep calm for this one man</td>
+  </tr>
+</table>
+</div>
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
