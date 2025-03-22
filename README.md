@@ -62,6 +62,12 @@ Because who needs sleep anyway? 😴💻
 </p>
 
 
+### 🔧 Technical Skills
+- **Programming Languages:** JavaScript, TypeScript, PHP, C/C++
+- **Tech Stack:** React, Next.js, Node.js, Prisma, PostgreSQL, MongoDB, Tailwind CSS, WebSockets, WebRTC
+- **Machine Learning:** Supervised/Unsupervised Learning, Advanced Learning Algorithms, Reinforcement Learning
+- **DevOps & Tools:** AWS (Basic), Nginx, Reverse Proxies, Cloudflare, Rate Limiting, DDOS Protection
+
 
 ---
 
