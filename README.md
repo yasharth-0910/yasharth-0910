@@ -129,12 +129,7 @@
     </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yasharth-0910&theme=radical" alt="GitHub Trophy"/>
-  </a>
-</div>
-
+## 📰 Latest Blog Posts
 ## 🌐 Connect With Me
 
 <p align="center">
