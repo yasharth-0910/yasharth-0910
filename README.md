@@ -1,15 +1,15 @@
 <p align="center">
     <a href="https://yasharth.xyz" target="_blank">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3200&pause=1000&color=7A3FF7&center=true&vCenter=true&width=800&lines=Hey+there!+%F0%9F%91%8B;I'm+Yasharth+%F0%9F%97%9E%EF%B8%8F;AI+Enthusiast+%26+Full+Stack+Developer;Building+the+Mess+with+Code+%F0%9F%9A%80;Open+Source+Advocate+%F0%9F%92%9A" alt="Animated Welcome" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3200&pause=1000&color=7A3FF7&center=true&vCenter=true&width=800&lines=Hey+there!+%F0%9F%91%8B;I'm+Yasharth+%F0%9F%97%9E%EF%B8%8F;AI+Enthusiast+%26+Full+Stack+Developer;Building+the+Mess+with+with+Code+%F0%9F%9A%80;Open+Source+Advocate+%F0%9F%92%9A" alt="Animated Welcome" />
     </a>
 </p>
 
 ## 🚀 A Little About Me
 
 <div align="center">
-    <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100" height="100" alt="coding gif" />
-    <img src="https://media.giphy.com/media/l469mpF6ANm9KJk4Q/giphy.gif" width="100" height="100" alt="another coding gif" />
-     <img src="https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif" width="100" height="100" alt="yet another coding gif" />
+    <img src="https://media.giphy.com/media/3o85xLSaPj4YQjKxOk/giphy.gif" width="100" height="100" alt="Robot Coding" />
+    <img src="https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif" width="100" height="100" alt="Matrix Coding" />
+    <img src="https://media.giphy.com/media/l469mpF6ANm9KJk4Q/giphy.gif" width="100" height="100" alt="3D Coding" />
 </div>
 
 **2nd Year CSE Student | India | Grad 2027**<br>
@@ -119,18 +119,52 @@
 - **Machine Learning:** Supervised/Unsupervised Learning, Advanced Learning Algorithms, Reinforcement Learning
 -  **DevOps & Tools:** AWS (Basic), Nginx, Reverse Proxies, Cloudflare, Rate Limiting, DDOS Protection
 
-## 📊 GitHub Analytics
+## 🎮 Interactive Game: Rock, Paper, Scissors
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=yasharth-0910&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-streak-stats">
-        <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=yasharth-0910&theme=radical&hide_border=true" alt="GitHub Streak"/>
-    </a>
+<table border="0" style="margin-left: auto; margin-right: auto;">
+<tr>
+<td style="padding: 10px;">
+    <input type="radio" id="rock" name="rps" value="rock">
+    <label for="rock">Rock</label>
+</td>
+<td style="padding: 10px;">
+    <input type="radio" id="paper" name="rps" value="paper">
+    <label for="paper">Paper</label>
+</td>
+<td style="padding: 10px;">
+    <input type="radio" id="scissors" name="rps" value="scissors">
+    <label for="scissors">Scissors</label>
+</td>
+</tr>
+</table>
+
+<p id="resultText"></p>
+<button onclick="playGame()">Play!</button>
+<script>
+function playGame() {
+    const choices = ['rock', 'paper', 'scissors'];
+    const playerChoice = document.querySelector('input[name="rps"]:checked').value;
+    const computerChoice = choices[Math.floor(Math.random() * choices.length)];
+
+    let result = '';
+    if (playerChoice === computerChoice) {
+        result = "It's a tie!";
+    } else if (
+        (playerChoice === 'rock' && computerChoice === 'scissors') ||
+        (playerChoice === 'paper' && computerChoice === 'rock') ||
+        (playerChoice === 'scissors' && computerChoice === 'paper')
+    ) {
+        result = 'You win!';
+    } else {
+        result = 'You lose!';
+    }
+
+    document.getElementById('resultText').innerHTML = `You chose ${playerChoice}. Computer chose ${computerChoice}. ${result}`;
+}
+</script>
 </div>
 
-## 📰 Latest Blog Posts
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -157,6 +191,6 @@
 
 <div align="center">
     <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" alt="Stay Awesome"/>
-     <img src="https://media.giphy.com/media/3o6Zt6KHxNmVuwDiOQ/giphy.gif" width="200" alt="Crazy Coding Gif"/>
+    <img src="https://media.giphy.com/media/3o85xLSaPj4YQjKxOk/giphy.gif" width="200" alt="Robot Dance"/>
 </div>
 <p align="center"> Still reading? Go touch some grass 🌿 and keep coding like a rockstar! </p>
