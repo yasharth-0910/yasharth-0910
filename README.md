@@ -9,6 +9,7 @@
 <div align="center">
     <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100" height="100" alt="coding gif" />
     <img src="https://media.giphy.com/media/l469mpF6ANm9KJk4Q/giphy.gif" width="100" height="100" alt="another coding gif" />
+     <img src="https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif" width="100" height="100" alt="yet another coding gif" />
 </div>
 
 **2nd Year CSE Student | India | Grad 2027**<br>
@@ -156,5 +157,6 @@
 
 <div align="center">
     <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" alt="Stay Awesome"/>
+     <img src="https://media.giphy.com/media/3o6Zt6KHxNmVuwDiOQ/giphy.gif" width="200" alt="Crazy Coding Gif"/>
 </div>
 <p align="center"> Still reading? Go touch some grass 🌿 and keep coding like a rockstar! </p>
