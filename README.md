@@ -122,47 +122,48 @@
 ## 🎮 Interactive Game: Rock, Paper, Scissors
 
 <div align="center">
-<table border="0" style="margin-left: auto; margin-right: auto;">
-<tr>
-<td style="padding: 10px;">
-    <input type="radio" id="rock" name="rps" value="rock">
-    <label for="rock">Rock</label>
-</td>
-<td style="padding: 10px;">
-    <input type="radio" id="paper" name="rps" value="paper">
-    <label for="paper">Paper</label>
-</td>
-<td style="padding: 10px;">
-    <input type="radio" id="scissors" name="rps" value="scissors">
-    <label for="scissors">Scissors</label>
-</td>
-</tr>
-</table>
+    <table border="0" style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td style="padding: 10px;">
+                <input type="radio" id="rock" name="rps" value="rock">
+                <label for="rock">Rock</label>
+            </td>
+            <td style="padding: 10px;">
+                <input type="radio" id="paper" name="rps" value="paper">
+                <label for="paper">Paper</label>
+            </td>
+            <td style="padding: 10px;">
+                <input type="radio" id="scissors" name="rps" value="scissors">
+                <label for="scissors">Scissors</label>
+            </td>
+        </tr>
+    </table>
+    <p id="resultText"></p>
+    <button onclick="playGame()">Play!</button>
+    <script>
+        function playGame() {
+            const choices = ['rock', 'paper', 'scissors'];
+            const playerChoice = document.querySelector('input[name="rps"]:checked')?.value;  //Changed
+            const computerChoice = choices[Math.floor(Math.random() * choices.length)];
 
-<p id="resultText"></p>
-<button onclick="playGame()">Play!</button>
-<script>
-function playGame() {
-    const choices = ['rock', 'paper', 'scissors'];
-    const playerChoice = document.querySelector('input[name="rps"]:checked').value;
-    const computerChoice = choices[Math.floor(Math.random() * choices.length)];
+            let result = '';
+             if (!playerChoice) {  //Added
+                result = "Please select an option!";
+            } else if (playerChoice === computerChoice) {
+                result = "It's a tie!";
+            } else if (
+                (playerChoice === 'rock' && computerChoice === 'scissors') ||
+                (playerChoice === 'paper' && computerChoice === 'rock') ||
+                (playerChoice === 'scissors' && computerChoice === 'paper')
+            ) {
+                result = 'You win!';
+            } else {
+                result = 'You lose!';
+            }
 
-    let result = '';
-    if (playerChoice === computerChoice) {
-        result = "It's a tie!";
-    } else if (
-        (playerChoice === 'rock' && computerChoice === 'scissors') ||
-        (playerChoice === 'paper' && computerChoice === 'rock') ||
-        (playerChoice === 'scissors' && computerChoice === 'paper')
-    ) {
-        result = 'You win!';
-    } else {
-        result = 'You lose!';
-    }
-
-    document.getElementById('resultText').innerHTML = `You chose ${playerChoice}. Computer chose ${computerChoice}. ${result}`;
-}
-</script>
+            document.getElementById('resultText').innerHTML = `You chose ${playerChoice}. Computer chose ${computerChoice}. ${result}`;
+        }
+    </script>
 </div>
 
 ## 🌐 Connect With Me
