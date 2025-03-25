@@ -22,7 +22,7 @@
 <details>
     <summary><strong>💡 Fun Fact?</strong></summary>
     <p>
-        "There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors." – Phil Karlton (with a twist)
+        Why do Java developers wear glasses? Because they don't C#!
     </p>
 </details>
 
@@ -119,52 +119,11 @@
 - **Machine Learning:** Supervised/Unsupervised Learning, Advanced Learning Algorithms, Reinforcement Learning
 -  **DevOps & Tools:** AWS (Basic), Nginx, Reverse Proxies, Cloudflare, Rate Limiting, DDOS Protection
 
-## 🎮 Interactive Game: Rock, Paper, Scissors
+## 🤪 Fun Fact Time!
 
-<div align="center">
-    <table border="0" style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td style="padding: 10px;">
-                <input type="radio" id="rock" name="rps" value="rock">
-                <label for="rock">Rock</label>
-            </td>
-            <td style="padding: 10px;">
-                <input type="radio" id="paper" name="rps" value="paper">
-                <label for="paper">Paper</label>
-            </td>
-            <td style="padding: 10px;">
-                <input type="radio" id="scissors" name="rps" value="scissors">
-                <label for="scissors">Scissors</label>
-            </td>
-        </tr>
-    </table>
-    <p id="resultText"></p>
-    <button onclick="playGame()">Play!</button>
-    <script>
-        function playGame() {
-            const choices = ['rock', 'paper', 'scissors'];
-            const playerChoice = document.querySelector('input[name="rps"]:checked')?.value;  //Changed
-            const computerChoice = choices[Math.floor(Math.random() * choices.length)];
+Why do Java developers wear glasses?
 
-            let result = '';
-             if (!playerChoice) {  //Added
-                result = "Please select an option!";
-            } else if (playerChoice === computerChoice) {
-                result = "It's a tie!";
-            } else if (
-                (playerChoice === 'rock' && computerChoice === 'scissors') ||
-                (playerChoice === 'paper' && computerChoice === 'rock') ||
-                (playerChoice === 'scissors' && computerChoice === 'paper')
-            ) {
-                result = 'You win!';
-            } else {
-                result = 'You lose!';
-            }
-
-            document.getElementById('resultText').innerHTML = `You chose ${playerChoice}. Computer chose ${computerChoice}. ${result}`;
-        }
-    </script>
-</div>
+...Because they don't C#!
 
 ## 🌐 Connect With Me
 
