@@ -147,4 +147,4 @@
 <div align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" alt="Stay Awesome"/>
 </div>
-<p align="center"> Still reading? Go touch some grass 🌿 and keep coding like a rockstar! </p>
+<p align="center"> Still reading? Go touch some grass 🌿</p>
