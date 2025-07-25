@@ -11,9 +11,8 @@
   <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100" height="100 alt="coding gif" />
 </div>
 
-**2nd Year CSE Student | India | Grad 2027**  
+**3rd Year CSE Student | India | Grad 2027**  
 **AI/ML Developer | Full Stack Developer | IoT & Robotics | DSA**  
-**Currently Building: 🤖 AI Stock Sentiment Analyzer**  
 **Contributor: Open Source Core Team | Robotics Club Core Team**  
 
 [**🌐 Portfolio**](https://yasharth.xyz)
@@ -77,7 +76,7 @@
   </tr>
   <tr>
     <td align="center">StockSage 📈🧠</td>
-    <td align="center">AI-powered bot predicting Indian stock movements from news & sentiment. 🚀📈</td>
+    <td align="center">A Real-Time Stock Prediction Model 🚀📈</td>
     <td align="center">Gotta keep calm for this one man</td>
   </tr>
 </table>
