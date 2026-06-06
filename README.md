@@ -11,9 +11,9 @@
   <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="100" height="100 alt="coding gif" />
 </div>
 
-**3rd Year CSE Student | India | Grad 2027**  
+**Final Year CSE Student | India | Grad 2027**  
 **AI/ML Developer | Full Stack Developer | IoT & Robotics | DSA**  
-**Contributor: Open Source Core Team | Robotics Club Core Team**  
+**Contributor: Open Source Core Team | Robotics Club Head | Founding Member Dronotics Club**  
 
 [**🌐 Portfolio**](https://yasharth.xyz)
 
