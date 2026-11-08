@@ -15,7 +15,6 @@
 - CSE undergrad at JIIT Noida, graduating 2027.
 - I build web backends and dashboards, train and evaluate ML models, and wire them up to hardware like the Raspberry Pi.
 - Head of CICR, the robotics club at JIIT-128, where I work on the club's sites and tools.
-- Currently working on fixes in [OpenVINO and OpenVINO GenAI](https://github.com/search?q=author%3Ayasharth-0910+org%3Aopenvinotoolkit&type=pullrequests).
 
 ## Selected work
 
